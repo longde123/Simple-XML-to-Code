@@ -1,0 +1,14 @@
+D:\simplexmltocode-code\bin\Debug\ClassTemplate.txt
+D:\simplexmltocode-code\bin\Debug\XmlToSerialisableClass.exe.config
+D:\simplexmltocode-code\bin\Debug\XmlToSerialisableClass.exe.manifest
+D:\simplexmltocode-code\bin\Debug\XmlToSerialisableClass.application
+D:\simplexmltocode-code\bin\Debug\XmlToSerialisableClass.exe
+D:\simplexmltocode-code\bin\Debug\XmlToSerialisableClass.pdb
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.csprojResolveAssemblyReference.cache
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.Main.resources
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.Properties.Resources.resources
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.csproj.GenerateResource.Cache
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.exe.manifest
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.application
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.exe
+D:\simplexmltocode-code\obj\x86\Debug\XmlToSerialisableClass.pdb
